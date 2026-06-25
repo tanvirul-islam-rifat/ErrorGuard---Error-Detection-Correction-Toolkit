@@ -2,13 +2,9 @@
 
 A command-line tool that implements the four core error control mechanisms from the Data Link layer — **Parity Check**, **Checksum**, **CRC**, and **Hamming Code** — with full step-by-step working shown for every operation, plus interactive error simulation to demonstrate what each method catches and what it misses.
 
-> CSE320 is a pure theory course with no coding component. This project computationally implements the error detection and correction mechanisms studied in Week 11 of the course syllabus.
-
-Built as a course project for **CSE320 – Data Communications** at BRAC University.
-
 ---
 
-## The Real-World Problem
+## The Problem
 
 Every byte transferred over a network passes through error detection before being accepted. The Data Link layer protects all communication using exactly these four mechanisms. ErrorGuard makes that process visible, interactive, and testable.
 
@@ -57,7 +53,7 @@ Side-by-side summary: overhead, detection capability, and correction capability 
 ## How to Run
 
 ```bash
-git clone https://github.com/YourGitHubUsername/errorguard-error-detection.git
+git https://github.com/tanvirul-islam-rifat/ErrorGuard---Error-Detection-Correction-Toolkit.git
 cd errorguard-error-detection
 python3 errorguard.py
 ```
