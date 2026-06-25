@@ -5,10 +5,6 @@ Data Link layer: Parity Check, Checksum, CRC (Cyclic Redundancy Check),
 and Hamming Code. Each method shows full step-by-step working, introduces
 errors, and demonstrates whether the method detects or corrects them.
 
-CSE320 is a pure theory course with no coding component. This project
-computationally implements the error control mechanisms studied in Week 11.
-
-Course: CSE320 - Data Communications
 """
 
 
