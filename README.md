@@ -1,6 +1,6 @@
 # ErrorGuard — Error Detection & Correction Toolkit
 
-A command-line tool that implements the four core error control mechanisms from the Data Link layer — **Parity Check**, **Checksum**, **CRC**, and **Hamming Code** — with full step-by-step working shown for every operation, plus interactive error simulation to demonstrate what each method catches and what it misses..
+A command-line tool that implements the four core error control mechanisms from the Data Link layer — **Parity Check**, **Checksum**, **CRC**, and **Hamming Code** — with full step-by-step working shown for every operation, plus interactive error simulation to demonstrate what each method catches and what it misses.
 
 ---
 
